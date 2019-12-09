@@ -14,10 +14,15 @@ you can download the dataset from this site: https://www.kaggle.com/hugomathien/
 ## Posing questions: 
 
 This analysis is answering on these important questions related to the soccer database: 
-1.Which league has the most number of matches in all of the time period? 
+
+1.Which league has the most number of matches in all of the time period?
+
 2.Is there a relashionship between the type of the team ( home, away) and the result of the match? 
+
 3.Is there a relationship between the type of the team and the average betting number from diffrent companies? 
+
 4.What teams improved the most over the time period? 
+
 5.What team attributes  lead to the most vectories? 
  
 ## import libraries and Data collection: 
